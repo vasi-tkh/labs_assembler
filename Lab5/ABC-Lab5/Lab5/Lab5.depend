@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639218903 source:c:\users\misha\source\repos\abc\lab5\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1639218970 source:c:\users\misha\source\repos\abc\lab5\assembly.s
+
