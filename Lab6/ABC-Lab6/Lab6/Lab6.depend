@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639231369 source:c:\users\misha\source\repos\abc\lab6\assembly.s
+
+1639231360 source:c:\users\misha\source\repos\abc\lab6\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
